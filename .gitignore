@@ -1,0 +1,17 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local env files (never commit secrets)
+.env
+.env.*
+*.local
+
+# Logs
+*.log
+
+# Build artifacts (if any later)
+dist/
+build/
